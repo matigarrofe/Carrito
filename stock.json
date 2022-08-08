@@ -1,0 +1,80 @@
+[{
+        "id": 1,
+        "nombre": "Kazan",
+        "tipo": "Bufanda",
+        "cantidad": 1,
+        "desc": "Bufanda con estructura espigada, color negro, con flecos en sus extremos.",
+        "precio": 8000,
+        "img": "./img/accesorios/bufanda-kazan.jpg"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Volga",
+        "tipo": "Bufanda",
+        "cantidad": 1,
+        "desc": "Bufanda tejida, color negro, con flecos en sus extremos.",
+        "precio": 9000,
+        "img": "./img/accesorios/bufanda-volga.jpg"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Lunares Petro",
+        "tipo": "Corbata",
+        "cantidad": 1,
+        "desc": "Corbata en jacquard, con estructura de lunares.",
+        "precio": 11200,
+        "img": "./img/accesorios/corbata-lunares-petro.jpg"
+    },
+
+    {
+        "id": 4,
+        "nombre": "Lunares",
+        "tipo": "Corbata",
+        "cantidad": 1,
+        "desc": "Corbata en jacquard, con estructura de lunares.",
+        "precio": 21400,
+        "img": "./img/accesorios/corbata-lunares.jpg"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Plaque Hanoi",
+        "tipo": "Cinturon",
+        "cantidad": 1,
+        "desc": "Cinturón de vestir liso en color marrón con efecto degradado, elaborado en cuero vacuno, con hebilla plateada. Ancho de 35mm.",
+        "precio": 11200,
+        "img": "./img/accesorios/cinturon-plaque-hanoi.jpg"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Plaque Vide",
+        "tipo": "Cinturon",
+        "cantidad": 1,
+        "desc": "Cinturón de vestir estilo bombe. Color negro, con hebilla moderna plateada. Ancho de 35 mm.",
+        "precio": 11500,
+        "img": "./img/accesorios/cinturon-plaque-vide.jpg"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Cap Gordes",
+        "tipo": "Sombreros",
+        "cantidad": 1,
+        "desc": "Cap confeccionada en tejido corderoy con sistema ajustable. Color azul.",
+        "precio": 2600,
+        "img": "./img/accesorios/cap-gordes.jpg"
+    },
+
+    {
+        "id": 8,
+        "nombre": "Piluso Soles",
+        "tipo": "Sombreros",
+        "cantidad": 1,
+        "desc": "Piluso elaborado en tejido de gabardina de algodón. Forro interior y elástico ajustable. ",
+        "precio": 3900,
+        "img": "./img/accesorios/piluso-soles.jpg"
+    }
+]
